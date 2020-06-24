@@ -36,7 +36,7 @@
         <div class="grid-view">
             <div class="grid-item">
                 <img src="./database.png"/>
-                <a href="#" onClick="displayData()"><b>Xem dữ liệu hóa đơn</b></a>
+                <a href="#" onClick="displayData()"><b>Xem dữ liệu SP</b></a>
             </div>
             <div class="grid-item">
                 <img src="./database.png" />
